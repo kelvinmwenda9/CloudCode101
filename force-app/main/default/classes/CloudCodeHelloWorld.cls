@@ -4,5 +4,3 @@ public with sharing class CloudCodeHelloWorld {
     }
 }
 
-// test
-//test2
